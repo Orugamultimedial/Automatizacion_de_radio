@@ -1,0 +1,1 @@
+bash /mnt/c/Users/fmgil/Documents/Radio/Script/Linux/Descarga_Hora_de_la_Reforma.sh
